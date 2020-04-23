@@ -1,0 +1,135 @@
+﻿ISLAND,Latdd,Long_dd,ISLANDID,AREAS,AREAID,Constitency,Gender,Symptoms,Status
+New Providence,25.004389,-77.491444,NewProvidence,Adelaide,Adelaide,Golden Isles,F,Y,Mild
+New Providence,25.053861,-77.485,NewProvidence,Airport Industrial Park,AirportIndustrialPark,Kilarney,M,Y,Mild
+New Providence,25.045306,-77.350333,NewProvidence,Baillou Hill Estates,BaillouHillEstates,Mt. Moriah,F,Y,Mild
+New Providence,25.067444,-77.349417,NewProvidence,Bains & Grant Town,BainsGrantTown,Bain Town & Grants Town,F,Y,Mild
+New Providence,25.019444,-77.342611,NewProvidence,Bamboo Town,BambooTown,Bamboo Town,M,Y,Mild
+New Providence,25.068778,-77.357417,NewProvidence,Boyd Subdivision,BoydSubdivision,Fort Charlotte,M,Y,Mild
+New Providence,25.077139,-77.411861,NewProvidence,Cable Beach,CableBeach,Kilarney,M,Y,Mild
+New Providence,25.044944,-77.275639,NewProvidence,Camperdown,Camperdown,St. Anne's,M,Y,Mild
+New Providence,25.065722,-77.33225,NewProvidence,Centerville,Centerville,Centerville,M,Y,Mild
+New Providence,25.051833,-77.493833,NewProvidence,Charlotteville,Charlotteville,Kilarney,F,Y,Moderate
+New Providence,25.074417,-77.362722,NewProvidence,Chippingham,Chippingham,Fort Charlotte,F,Y,Moderate
+New Providence,25.062306,-77.336528,NewProvidence,Collins Avenue,CollinsAvenue,Centerville,F,Y,Moderate
+New Providence,25.06375,-77.487806,NewProvidence,Columbus Cove,ColumbusCove,Kilarney,M,Y,Moderate
+New Providence,25.000611,-77.456194,NewProvidence,Coral Harbour,CoralHarbour,Golden Isles,F,Y,Moderate
+New Providence,25.078167,-77.342778,NewProvidence,Downtown,Downtown,Bain Town & Grants Town,F,Y,Moderate
+New Providence,25.03375,-77.286944,NewProvidence,Elizabeth,Elizabeth,Elizabeth,F,Y,Moderate
+New Providence,25.055889,-77.346111,NewProvidence,Englerston,Englerston,St. Barnabas,F,Y,Moderate
+New Providence,25.076639,-77.3585,NewProvidence,Fort Charlotte,FortCharlotte,Fort Charlotte,F,Y,Moderate
+New Providence,25.034306,-77.293194,NewProvidence,Fox Hill,FoxHill,Elizabeth,F,Y,Moderate
+New Providence,25.062583,-77.314639,NewProvidence,Free Town,FreeTown,Freetown,M,Y,Moderate
+New Providence,25.062833,-77.476194,NewProvidence,Gambier Village,GambierVillage,Kilarney,M,Y,Moderate
+New Providence,25.042528,-77.349417,NewProvidence,Garden Hills,GardenHills,Englerston,M,Y,Moderate
+New Providence,25.03175,-77.349139,NewProvidence,Golden Gates,GoldenGates,Golden Gates,M,Y,Moderate
+New Providence,25.009111,-77.392556,NewProvidence,Golden Isles,GoldenIsles,Golden Isles,M,Y,Moderate
+New Providence,25.045194,-77.323833,NewProvidence,Highbury Park,HighburyPark,Marathon,M,Y,Severe
+New Providence,25.040722,-77.498694,NewProvidence,Jacarada,Jacarada,Kilarney,M,Y,Severe
+New Providence,25.054556,-77.417889,NewProvidence,Killarney,Killarney,Kilarney,M,Y,Severe
+New Providence,25.060167,-77.402028,NewProvidence,Lake Cunningham,LakeCunningham,Kilarney,F,Y,Mild
+New Providence,25.061361,-77.433778,NewProvidence,Lake Killarney,LakeKillarney,Kilarney,F,Y,Mild
+New Providence,25.058222,-77.308139,NewProvidence,Blair,Blair,St. Anne's,F,Y,Mild
+New Providence,25.062361,-77.491056,NewProvidence,Love Beach,LoveBeach,Kilarney,F,Y,Mild
+New Providence,25.030556,-77.518833,NewProvidence,Lyford Cay,LyfordCay,Kilarney,F,Y,Mild
+New Providence,25.026583,-77.334722,NewProvidence,Malcolm Allotment,MalcolmAllotment,Pinewood,F,Y,Mild
+New Providence,25.049111,-77.327583,NewProvidence,Marathon ,Marathon ,Marathon,F,Y,Mild
+New Providence,25.012889,-77.384444,NewProvidence,Millars Height,MillarsHeight,Southern Shores,F,Y,Mild
+New Providence,25.049528,-77.3715,NewProvidence,Millenium Gardens,MilleniumGardens,Mt. Moriah,F,Y,Mild
+New Providence,25.045139,-77.311222,NewProvidence,Monestary Park,MonestaryPark,Fox Hill,F,Y,Mild
+New Providence,25.063972,-77.371444,NewProvidence,Mount Moriah,MountMoriah,Fort Charlotte,F,Y,Mild
+New Providence,25.027111,-77.512639,NewProvidence,Mount Pleasant,MountPleasant,Kilarney,F,Y,Mild
+New Providence,25.064944,-77.333,NewProvidence,Mount Royal Avenue,MountRoyalAvenue,Centerville,F,Y,Mild
+New Providence,25.037139,-77.322139,NewProvidence,Nassau Village,NassauVillage,Nassau Village,F,Y,Mild
+New Providence,25.064333,-77.354361,NewProvidence,Oakes Field,OakesField,Bain Town & Grants Town,F,Y,Mild
+New Providence,25.043306,-77.5025,NewProvidence,Old Fort Bay,OldFortBay,Kilarney,F,Y,Mild
+New Providence,25.064139,-77.333028,NewProvidence,Palmdale,Palmdale,Centerville,F,N,None
+New Providence,25.080806,-77.317333,NewProvidence,Paradise Island,ParadiseIsland,Freetown,F,N,None
+New Providence,25.071806,-77.36975,NewProvidence,Perpall Tract,PerpallTract,Fort Charlotte,F,N,None
+New Providence,25.024306,-77.335611,NewProvidence,Pinewood,Pinewood,Pinewood,F,N,None
+New Providence,25.064389,-77.388972,NewProvidence,Prospect Ridge,ProspectRidge,Kilarney,M,N,None
+New Providence,25.060556,-77.325111,NewProvidence,Pyfrom Addition,PyfromAddition,Freetown,M,N,None
+New Providence,25.087167,-77.197972,NewProvidence,Rose Island,RoseIsland,Freetown,M,N,None
+New Providence,25.0525,-77.291167,NewProvidence,Saint Anne's,SaintAnnes,St. Anne's,M,N,None
+New Providence,25.061639,-77.347389,NewProvidence,Saint Barnabas,SaintBarnabas,Bain Town & Grants Town,M,N,None
+New Providence,25.074778,-77.428889,NewProvidence,Sandyport,Sandyport,Kilarney,M,N,None
+New Providence,25.029,-77.310333,NewProvidence,Seabreeze,Seabreeze,Seabreeze,M,N,None
+New Providence,25.06775,-77.408,NewProvidence,Skyline,Skyline,Kilarney,M,N,None
+New Providence,25.0075,-77.343778,NewProvidence,South Beach,SouthBeach,South Beach,M,N,None
+New Providence,25.002056,-77.521583,NewProvidence,South Ocean,SouthOcean,Kilarney,M,N,None
+New Providence,25.007167,-77.364556,NewProvidence,Southern Shores,SouthernShores,South Beach,M,N,None
+New Providence,25.063694,-77.373806,NewProvidence,Stapleton Gardens,StapletonGardens,Fort Charlotte,M,N,None
+New Providence,25.027222,-77.359611,NewProvidence,Sunshine Park,SunshinePark,Golden Gates,M,N,None
+New Providence,25.017556,-77.415333,NewProvidence,Tall Pines,TallPines,Golden Isles,M,N,None
+New Providence,25.045222,-77.490611,NewProvidence,Venetian West,VenetianWest,Kilarney,M,N,None
+New Providence,25.059083,-77.487083,NewProvidence,West Winds,WestWinds,Kilarney,M,N,None
+New Providence,25.065361,-77.43425,NewProvidence,Westridge,Westridge,Kilarney,M,N,None
+New Providence,25.048472,-77.309167,NewProvidence,Windsor Estates,WindsorEstates,Marathon,M,N,None
+New Providence,25.029472,-77.272306,NewProvidence,Winton,Winton,Yamacraw,M,N,None
+New Providence,25.024806,-77.280944,NewProvidence,Yamacraw,Yamacraw,St. Anne's,M,N,None
+New Providence,25.047139,-77.369333,NewProvidence,Yellow Elder Gardens,YellowElderGardens,Mt. Moriah,M,N,None
+Grand Bahama,26.519806,-78.68825,GrandBahama,Marco City,MarcoCity,Marco City,F,N,None
+Grand Bahama,26.540278,-78.700306,GrandBahama,Pineridge,Pineridge,Pineridge,F,N,None
+Grand Bahama,26.588917,-78.552111,GrandBahama,East Grand Bahama,EastGrandBahama,East Grand Bahama,F,Y,None
+Grand Bahama,26.583611,-78.857417,GrandBahama,West Grand Bahama & Bimini,WestGrandBahama&Bimini,West Grand Bahama & Bimini,M,N,None
+Grand Bahama,26.508472,-78.722889,GrandBahama,Central Grand Bahama,CentralGrandBahama,Central Grand Bahama,M,N,None
+Andros,25.130833,-78.009722,Andros,Nicholls Town,NichollsTown,North Andros & The Berry Islands,M,N,None
+Andros,24.7295,-77.807361,Andros,Coakley Town,CoakleyTown,Mangrove Cay & South Andros,M,N,None
+Andros,24.601694,-77.767944,Andros,Bowen Sound,BowenSound,Mangrove Cay & South Andros,F,N,None
+Andros,24.277917,-77.6765,Andros,Mangrove Cay,MangroveCay,Mangrove Cay & South Andros,F,N,None
+Andros,23.962278,-77.538417,Andros,South Andros,SouthAndros,Mangrove Cay & South Andros,F,N,None
+Abaco,26.816694,-77.459889,Abaco,North Abaco,NorthAbaco,North Abaco,F,N,None
+Abaco,26.431417,-77.109417,Abaco,Central Abaco,CentralAbaco,Central & South Abaco,F,N,None
+Abaco,25.899556,-77.219444,Abaco,South Abaco,SouthAbaco,Central & South Abaco,M,N,None
+Bimini,25.733056,-79.294361,Bimini,Alice Town,AliceTown,West Grand Bahama & Bimini,M,N,None
+Bimini,25.757361,-79.253222,Bimini,North Bimini,NorthBimini,West Grand Bahama & Bimini,M,N,None
+Bimini,25.7025,-79.274333,Bimini,South Bimini,SouthBimini,West Grand Bahama & Bimini,F,N,None
+Berry Islands,25.823472,-77.903111,BerryIslands,Great Stirrup Cay,GreatStirrupCay,North Andros & The Berry Islands,F,N,None
+Berry Islands,25.415944,-77.893667,BerryIslands,Chub Cay,ChubCay,North Andros & The Berry Islands,F,N,None
+Berry Islands,25.753444,-77.856167,BerryIslands,Great Harbour Cay,GreatHarbourCay,North Andros & The Berry Islands,M,N,None
+Berry Islands,25.581389,-77.721167,BerryIslands,Little Harbour Cay,LittleHarbourCay,North Andros & The Berry Islands,M,N,None
+Cat Island,24.6225,-75.671306,CatIsland,Arthur's Town,Arthur'sTown,"Cat Island, Rum Cay & San Salvador",M,N,None
+Cat Island,24.166472,-75.342944,CatIsland,Bailey Town,BaileyTown,"Cat Island, Rum Cay & San Salvador",M,N,None
+Cat Island,24.230222,-75.378444,CatIsland,Old Bight,OldBight,"Cat Island, Rum Cay & San Salvador",M,N,None
+Cat Island,24.562,-75.634222,CatIsland,Bennets Harbour,BennetsHarbour,"Cat Island, Rum Cay & San Salvador",M,N,None
+Cat Island,24.301111,-75.423056,CatIsland,The Bight,TheBight,"Cat Island, Rum Cay & San Salvador",F,N,None
+Cat Island,24.60575,-75.652806,CatIsland,Zion Hill,ZionHill,"Cat Island, Rum Cay & San Salvador",F,N,None
+Cat Island,24.353111,-75.488278,CatIsland,Smith Town,SmithTown,"Cat Island, Rum Cay & San Salvador",F,N,None
+The Exumas,24.092556,-76.395306,TheExumas,Exuma Cays,ExumaCays,Exumas & Ragged Island,F,N,None
+The Exumas,23.58375,-75.895667,TheExumas,Farmer's Hill,Farmer'sHill,Exumas & Ragged Island,F,N,None
+The Exumas,23.566861,-75.866,TheExumas,Moss Town,MossTown,Exumas & Ragged Island,F,N,None
+The Exumas,23.51025,-75.785833,TheExumas,George Town,GeorgeTown,Exumas & Ragged Island,F,N,None
+The Exumas,23.45325,-75.700917,TheExumas,Rolletown,Rolletown,Exumas & Ragged Island,M,N,None
+The Exumas,23.422667,-75.558139,TheExumas,William's Town,William'sTown,Exumas & Ragged Island,M,N,None
+Spanish Wells,25.545278,-76.758139,SpanishWells,Spanish Wells Proper,SpanishWellsProper,North Eleuthera,M,N,None
+Eleuthera,25.476528,-76.6965,Eleuthera,North Eleuthera,NorthEleuthera,North Eleuthera,F,N,None
+Eleuthera,25.155917,-76.162056,Eleuthera,Central Eleuthera,CentralEleuthera,Central & South Eleuthera,F,N,None
+Eleuthera,24.761,-76.211222,Eleuthera,South Eleuthera,SouthEleuthera,Central & South Eleuthera,M,N,None
+Harbour Island,25.527861,-76.635472,HarbourIsland,Harbour Island,HarbourIsland,North Eleuthera,M,N,None
+Acklins,22.689806,-73.981556,Acklins,Lovely Bay,LovelyBay,MICAL,M,N,None
+Acklins,22.614417,-73.874556,Acklins,Anderson,Anderson,MICAL,M,N,None
+Acklins,22.708639,-73.939639,Acklins,Chester's,Chester's,MICAL,M,N,None
+Acklins,22.420694,-73.970556,Acklins,SpringPoint,SpringPoint,MICAL,M,N,None
+Acklins,22.211667,-74.254417,Acklins,Salina Point,SalinaPoint,MICAL,M,N,None
+Croocked Island,22.582139,-74.355917,CroockedIsland,Long Cay,LongCay,MICAL,F,N,None
+Croocked Island,22.830944,-74.341361,CroockedIsland,"Pitts Town, Landrail & Seaview","PittsTown,Landrail&Seaview",MICAL,M,N,None
+Croocked Island,22.727028,-74.062333,CroockedIsland,"Browns, Majors & Bullet Hill","Browns,Majors&BulletHill",MICAL,F,N,None
+Croocked Island,22.756361,-74.216333,CroockedIsland,Cabbage Hill,CabbageHill,MICAL,M,N,None
+Croocked Island,22.720583,-74.139056,CroockedIsland,"Major Cay, Bullet Hill & True Blue","MajorCay,BulletHill&TrueBlue",MICAL,F,N,None
+Inagua,20.950556,-73.673722,Inagua,Matthew Town,MatthewTown,MICAL,F,N,None
+Mayaguana,22.420444,-73.132528,Mayaguana,Betsy Bay,BetsyBay,MICAL,M,N,None
+Mayaguana,22.430972,-73.096222,Mayaguana,Pirates Well,PiratesWell,MICAL,F,N,None
+Mayaguana,22.370694,-72.965333,Mayaguana,Abraham's Bay,Abraham'sBay,MICAL,M,N,None
+Ragged Island,22.196222,-75.725806,RaggedIsland,Duncan Town,DuncanTown,Exumas & Ragged Island,M,N,None
+Long Island,23.100111,-74.966639,LongIsland,Clarence Town,ClarenceTown,Long Island,M,N,None
+Long Island,23.177694,-75.114361,LongIsland,Deadman’s Cay,Deadman’sCay,Long Island,F,N,None
+Long Island,23.1195,-75.050667,LongIsland,Hamilton's,Hamilton's,Long Island,F,N,None
+Long Island,23.128,-75.061194,LongIsland,Mangrove Bush,MangroveBush,Long Island,F,N,None
+Long Island,23.479861,-75.235306,LongIsland,Simms,Simms,Long Island,F,N,None
+Long Island,23.35825,-75.130444,LongIsland,Salt Pond,SaltPond,Long Island,M,N,None
+Long Island,23.590167,-75.266583,LongIsland,Stella Maris,StellaMaris,Long Island,M,N,None
+Rum Cay,23.677917,-74.863306,RumCay,Rum Cay,RumCay,"Cat Island, Rum Cay & San Salvador",M,N,None
+San Salvador,24.053333,-74.527778,SanSalvador,Cockburn Town,CockburnTown,"Cat Island, Rum Cay & San Salvador",M,N,None
+San Salvador,23.953833,-74.555639,SanSalvador,San Salvador South,SanSalvadorSouth,"Cat Island, Rum Cay & San Salvador",F,N,None
+San Salvador,24.020528,-74.468861,SanSalvador,Victoria Hill,VictoriaHill,"Cat Island, Rum Cay & San Salvador",F,N,None
+San Salvador,24.002417,-74.532333,SanSalvador,Sugar Loaf,SugarLoaf,"Cat Island, Rum Cay & San Salvador",F,N,None
+San Salvador,24.111472,-74.467528,SanSalvador,Dixon's,Dixon's,"Cat Island, Rum Cay & San Salvador",F,N,None
